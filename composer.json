@@ -6,7 +6,9 @@
             "email": "tab@email.com"
         }
     ],
-    "require": {},
+    "require": {
+        "tab/test-for-laravel": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Tab\\Test\\": "src"
