@@ -1,0 +1,16 @@
+{
+    "name": "tab/test-for-laravel",
+    "authors": [
+        {
+            "name": "tab",
+            "email": "tab@email.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tab\\Test\\": "src"
+        }
+    },
+    "description": "test composer ext"
+}
